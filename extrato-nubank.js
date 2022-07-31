@@ -32,7 +32,7 @@ NEWFILEUID:NONE
 <STMTTRN>
 <TRNTYPE>OTHER</TRNTYPE>
 <DTPOSTED>${date}</DTPOSTED>
-<TRNAMT>${amount}</TRNAMT>
+<TRNAMT>${-amount}</TRNAMT>
 <MEMO>${description}</MEMO>
 </STMTTRN>`;
 
